@@ -1,0 +1,6 @@
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.csproj.AssemblyReference.cache
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.AssemblyInfoInputs.cache
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.AssemblyInfo.cs
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.csproj.CoreCompileInputs.cache
+F:\ALL .NET\E-commerce-project\Skinet\Skinet.API\obj\Debug\net6.0\Skinet.API.MvcApplicationPartsAssemblyInfo.cache
